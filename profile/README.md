@@ -16,6 +16,8 @@
   
 🌃 We value attention to detail in any thing we create, also in the development of digital products, from UI · UX design to architectural approach and design patterns.
 
-<!--
-📺 You can follow us on TG, IG, as well as on the X. // add links after creating publics, add pictures
--->
+<br>
+
+<div align="center">
+    💬 You can follow us on
+</div>
