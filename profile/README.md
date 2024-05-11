@@ -24,6 +24,14 @@
 
 <div align="center">
     <a href="https://t.me/+gWVGV_CWdHBiYzVi">
-        <img src="(https://github.com/Lofticries-Games/Resources/blob/release/Logos/Telegram/Telegram.png" width="32" height="32">
+        <img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Telegram/Telegram.png" width="32" height="32">
+    </a>
+    &nbsp
+    <a href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr">
+        <img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Instagram/Instagram.png" width="32" height="32">
+    </a>
+    &nbsp
+    <a href="">
+        <img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/X · Twitter/X.png" width="32" height="32">
     </a>
 </div>
