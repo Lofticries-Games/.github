@@ -21,9 +21,9 @@
 <div align="center">
     💬 You can follow us on
     &nbsp
-    <a style="text-decoration: none" href="https://t.me/+gWVGV_CWdHBiYzVi"><img src="https://github.com/Lofticries-Games/Resources/blob/release/GIFs/Telegram/Telegram.gif" width="16" height="16"></a>
+    <a href="https://t.me/+gWVGV_CWdHBiYzVi"><img src="https://github.com/Lofticries-Games/Resources/blob/release/GIFs/Telegram/Telegram.gif" width="16" height="16"></a>
     &nbsp
-    <a style="text-decoration: none" href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr"><img src="https://github.com/Lofticries-Games/Resources/blob/release/GIFs/Instagram/Instagram.gif" width="16" height="16"></a>
+    <a href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr"><img src="https://github.com/Lofticries-Games/Resources/blob/release/GIFs/Instagram/Instagram.gif" width="16" height="16"></a>
     &nbsp
-    <a style="text-decoration: none" href=""><img src="https://github.com/Lofticries-Games/Resources/blob/release/GIFs/X · Twitter/Twitter.gif" width="16" height="16"></a>
+    <a href=""><img src="https://github.com/Lofticries-Games/Resources/blob/release/GIFs/X · Twitter/Twitter.gif" width="16" height="16"></a>
 </div>
