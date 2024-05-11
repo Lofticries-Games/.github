@@ -1,4 +1,4 @@
-![image alt](https://github.com/Lofticries-Games/Resources/blob/release/images/Greetings.png)
+![image alt](https://github.com/Lofticries-Games/Resources/blob/release/Images/Greetings.png)
 
 ## Lofticries Games
 
@@ -20,4 +20,10 @@
 
 <div align="center">
     💬 You can follow us on
+</div>
+
+<div align="center">
+    <a href="https://t.me/+gWVGV_CWdHBiYzVi">
+        <img src="(https://github.com/Lofticries-Games/Resources/blob/release/Logos/Telegram/Telegram.png" width="32" height="32">
+    </a>
 </div>
