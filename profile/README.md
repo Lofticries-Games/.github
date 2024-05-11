@@ -1,4 +1,4 @@
-![image alt](/images/greetings.png)
+![image alt](https://github.com/Lofticries-Games/Resources/blob/release/images/Greetings.png)
 
 ## Lofticries Games
 
