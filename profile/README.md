@@ -5,6 +5,7 @@
 👋 We're a small team that develops games.
 
 🎯 The main goal pursued by our team is to develop games that show that it is possible to create unique products in different epics of game design.
+🎮 For these purposes, our team is developing an unprecedented game engine for Apple platforms that literally every “housewife” could master.
 
 👔 Projects that have been developed:
 - [Subrosa Confidential](https://github.com/Lofticries-Games/SubrosaKit)
