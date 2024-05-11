@@ -18,20 +18,12 @@
 
 <br>
 
-<div align="center">
+<div align="center" vertical-align="middle">
     💬 You can follow us on
-</div>
-
-<div align="center">
-    <a href="https://t.me/+gWVGV_CWdHBiYzVi">
-        <img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Telegram/Telegram.png" width="32" height="32">
-    </a>
     &nbsp
-    <a href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr">
-        <img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Instagram/Instagram.png" width="32" height="32">
-    </a>
+    <a style="text-decoration: none" href="https://t.me/+gWVGV_CWdHBiYzVi"><img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Telegram/Telegram.png" width="16" height="16"></a>
     &nbsp
-    <a href="">
-        <img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/X · Twitter/X.png" width="32" height="32">
-    </a>
+    <a style="text-decoration: none" href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr"><img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Instagram/Instagram.png" width="16" height="16"></a>
+    &nbsp
+    <a style="text-decoration: none" href=""><img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/X · Twitter/X.png" width="16" height="16"></a>
 </div>
