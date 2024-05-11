@@ -1,4 +1,4 @@
-![image alt](/images/Greetings.png)
+![image alt](/images/greetings.png)
 
 ## Lofticries Games
 
