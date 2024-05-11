@@ -1,6 +1,6 @@
 ![image alt](https://github.com/Lofticries-Games/Resources/blob/release/Images/Greetings.png)
 
-## Lofticries Games
+## Lofticries Guys
 
 👋 We're a small team that develops games.
 
