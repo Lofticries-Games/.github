@@ -1,8 +1,6 @@
-# Lofticries Games
-
 ![image alt](/images/Greetings.png)
 
-## About us
+## Lofticries Games
 
 👋 We're a small team that develops games.
 
