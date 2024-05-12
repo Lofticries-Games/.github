@@ -26,9 +26,9 @@
 
 <div align="center">
     &nbsp
-    <a href="https://t.me/+gWVGV_CWdHBiYzVi"><img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Telegram/Telegram.png" width="32" height="32"></a>
+    <a href="https://t.me/+gWVGV_CWdHBiYzVi"><img src="/Logos/Telegram/Telegram.png" width="32" height="32"></a>
     &nbsp
-    <a href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr"><img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/Instagram/Instagram.png" width="32" height="32"></a>
+    <a href="https://www.instagram.com/lofticriesgames?igsh=a2MwZzl6Nmh3dGly&utm_source=qr"><img src="/Logos/Instagram/Instagram.png" width="32" height="32"></a>
     &nbsp
-    <a href="https://x.com/lofticriesgames"><img src="https://github.com/Lofticries-Games/Resources/blob/release/Logos/X · Twitter/Twitter.png" width="32" height="32"></a>
+    <a href="https://x.com/lofticriesgames"><img src="/Logos/X · Twitter/Twitter.png" width="32" height="32"></a>
 </div>
